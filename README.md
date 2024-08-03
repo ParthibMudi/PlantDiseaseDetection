@@ -1,9 +1,8 @@
-# 
-Plant Disease Detection Project in Python
-Introduction
+# Plant Disease Detection Project in Python
+# Introduction
 The Plant Disease Detection project is an innovative solution aimed at identifying and diagnosing diseases in plants using advanced machine learning and deep learning techniques. Developed in Python, this project leverages convolutional neural networks (CNNs) to analyze plant images and accurately detect various diseases, providing farmers and agriculturists with a powerful tool to manage plant health.
 
-Key Features
+# Key Features
 1. Image Preprocessing
 Image Augmentation: Enhances the training dataset by applying transformations like rotation, scaling, and flipping to create variations of the input images.
 Normalization: Ensures the input images have a consistent scale and range, improving the model's performance.
@@ -20,7 +19,7 @@ Real-time Feedback: Users receive immediate feedback on the health status of the
 5. Dataset
 Kaggle Dataset: Utilizes a comprehensive dataset from Kaggle containing images of healthy and diseased plants across various species.
 Data Split: The dataset is split into training, validation, and test sets to ensure the model's robustness and generalizability.
-Technical Details
+# Technical Details
 Programming Language
 Python: The project is developed using Python, leveraging its rich ecosystem of libraries for machine learning and data science.
 Libraries and Frameworks
